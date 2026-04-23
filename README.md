@@ -31,7 +31,7 @@ The goal is to bridge the gap between theoretical knowledge and practical cloud 
 ### 3. Governance Setup
 - Identified active Subscription
 - Created Resource Group:
-  - **Name:** `rg-devops-lab`
+  - **Name:** `Felixdeployment`
   - **Region:** West Europe
 
 ### 4. Identity & Access Management
